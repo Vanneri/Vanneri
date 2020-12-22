@@ -2,7 +2,7 @@
 
 ## I'm a Odoo Developer!
 
-- 🔭 I’m currently working on Open Sourse Works in Odoo
+- 🔭 I’m currently working on Open Source Works in Odoo
 - 🌱 I’m currently learning New things to integrate in Odoo 
 - 👯 I’m looking to collaborate on other contributers
 - ⚡ Fun fact: I love football.
